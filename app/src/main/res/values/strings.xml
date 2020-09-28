@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multicontador</string>
+    <string name="suma">+1</string>
+    <string name="contador">0</string>
+    <string name="reset">RESET</string>
+    <string name="bigreset">RESET ALL</string>
+</resources>
